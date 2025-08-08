@@ -69,11 +69,11 @@ South African e-commerce businesses need data-driven insights to optimize custom
 
 | Section | Description |
 |---------|-------------|
-| [🎯 **Business Impact**](#-business-impact-at-a-glance) | Key results and ROI metrics |
-| [📊 **Live Dashboards**](#-interactive-dashboard-portfolio) | Interactive Tableau visualizations |
-| [🔬 **Technical Deep Dive**](#-methodology--technical-implementation) | ML models and data pipeline |
-| [💼 **Business Applications**](#-business-applications--strategic-value) | Real-world use cases |
-| [🛠️ **Getting Started**](#-getting-started) | Setup and reproduction guide |
+| [🎯 **Business Impact**](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/blob/main/reports/Executive%20Summary.pdf) | Key results and ROI metrics |
+| [📊 **Live Dashboards**](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/tree/main/dashboards) | Interactive Tableau visualizations |
+| [🔬 **Technical Deep Dive**](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/tree/main/pipeline) | ML models and data pipeline |
+| [💼 **Business Applications**](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/tree/main/reports) | Real-world use cases |
+| [🛠️ **Getting Started**](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/tree/main/docs) | Setup and reproduction guide |
 
 ---
 
@@ -148,9 +148,9 @@ South African e-commerce businesses need data-driven insights to optimize custom
 
 </div>
 
-### **🗺️ [Geographic Performance Overview](dashboard-link)**
+### **🗺️ [Geographic Performance Overview](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/blob/main/dashboards/screenshots/geographic_overview.png)**
 
-![Dashboard 1](https://img.shields.io/badge/Dashboard_1-LIVE-6B8E23?style=for-the-badge)
+[![Dashboard 1](https://img.shields.io/badge/Dashboard_1-LIVE-6B8E23?style=for-the-badge)](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/blob/main/dashboards/recording/Tableau%20-%20South%20Africa%20E-Commerce%20Geographic%20Performance%20Overview.mp4)
 
 **🎯 Key Insight:** Western Cape drives 34% of revenue despite only 18% of customers - massive expansion opportunity identified
 
@@ -164,9 +164,9 @@ South African e-commerce businesses need data-driven insights to optimize custom
 
 ---
 
-### **👥 [Customer Segmentation Analysis](dashboard-link)**
+### **👥 [Customer Segmentation Analysis](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/blob/main/dashboards/screenshots/customer_segmentation.png)**
 
-![Dashboard 2](https://img.shields.io/badge/Dashboard_2-LIVE-8FBC8F?style=for-the-badge)
+[![Dashboard 2](https://img.shields.io/badge/Dashboard_2-LIVE-8FBC8F?style=for-the-badge)](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/blob/main/dashboards/recording/Tableau%20-%20Customer%20Segmentation%20Analysis.mp4)
 
 **🎯 Key Insight:** High-value segment (8% of customers) generates 42% of revenue - precision targeting unlocked
 
@@ -180,9 +180,9 @@ South African e-commerce businesses need data-driven insights to optimize custom
 
 ---
 
-### **🔄 [Customer Journey & Retention](dashboard-link)**
+### **🔄 [Customer Journey & Retention](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/blob/main/dashboards/screenshots/retention_analysis.png)**
 
-![Dashboard 3](https://img.shields.io/badge/Dashboard_3-LIVE-9ACD32?style=for-the-badge)
+[![Dashboard 3](https://img.shields.io/badge/Dashboard_3-LIVE-9ACD32?style=for-the-badge)](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/blob/main/dashboards/recording/Tableau%20-%20Customer%20Journey%20%26%20Retention%20Analysis.mp4)
 
 **🎯 Key Insight:** 67% of churn occurs within first 90 days - early intervention critical
 
@@ -356,9 +356,9 @@ South African e-commerce businesses need data-driven insights to optimize custom
 </table>
 
 ### **🔗 Access Live Dashboards**
-- **Dashboard 1:** [Geographic Performance 🌍](dashboard-link)
-- **Dashboard 2:** [Customer Segmentation 👥](dashboard-link)
-- **Dashboard 3:** [Retention Analysis 🔄](dashboard-link)
+- **Dashboard 1:** [Geographic Performance 🌍](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/blob/main/dashboards/South%20Africa%20E-Commerce%20Geographic%20Performance%20Overview.twbx)
+- **Dashboard 2:** [Customer Segmentation 👥](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/blob/main/dashboards/Customer%20Segmentation%20Analysis.twbx)
+- **Dashboard 3:** [Retention Analysis 🔄](https://github.com/AvyDle/SA-Ecommerce-Customer-Analytics/blob/main/dashboards/Customer%20Journey%20%26%20Retention%20Analysis.twbx)
 
 ---
 
