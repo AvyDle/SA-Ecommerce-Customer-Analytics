@@ -1,0 +1,211 @@
+# SA eCommerce Customer Analytics - Git Ignore Rules
+# Author: Aviwe Dlepu
+# Project: SA eCommerce Customer Analytics
+
+# =============================================================================
+# SENSITIVE DATA & CREDENTIALS
+# =============================================================================
+# BigQuery credentials and API keys
+*.json
+credentials/
+secrets/
+.env
+.env.local
+.env.production
+config.ini
+
+# Customer data (if sensitive)
+# Uncomment if working with sensitive customer data
+# *.csv
+# *.xlsx
+# *.parquet
+
+# =============================================================================
+# PYTHON
+# =============================================================================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# =============================================================================
+# JUPYTER NOTEBOOKS
+# =============================================================================
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IPython profile
+profile_default/
+ipython_config.py
+
+# Jupyter notebook outputs (optional - uncomment to ignore all outputs)
+# *.ipynb
+
+# =============================================================================
+# DATA SCIENCE & ANALYTICS
+# =============================================================================
+# Large data files
+*.h5
+*.hdf5
+*.pickle
+*.pkl
+
+# Model files
+*.model
+*.joblib
+*.sav
+
+# Tableau temp files
+*.twb~
+*.hyper
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# =============================================================================
+# IDE & EDITORS
+# =============================================================================
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# =============================================================================
+# OPERATING SYSTEM
+# =============================================================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# =============================================================================
+# LOGS & TEMPORARY FILES
+# =============================================================================
+# Log files
+*.log
+logs/
+log/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.backup
+
+# Cache directories
+.cache/
+*.cache
+
+# =============================================================================
+# DOCUMENTATION & REPORTS
+# =============================================================================
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+
+# Sphinx documentation
+docs/_build/
+
+# =============================================================================
+# CUSTOM PROJECT IGNORES
+# =============================================================================
+# Screenshots (if auto-generated)
+screenshots/temp/
+
+# Experimental notebooks
+experiments/
+sandbox/
+scratch/
+
+# Large output files
+outputs/large_files/
