@@ -1,4 +1,4 @@
-# 🥑 **SA eCommerce Customer Analytics**
+# 🥑 **SA E-Commerce Customer Analytics**
 ## *Transforming 44,000+ Customer Data Points Into R4.8M+ Revenue Opportunities*
 
 <div align="center">
@@ -8,7 +8,7 @@
 ![Revenue Impact](https://img.shields.io/badge/Revenue_Impact-R4.8M+-8FBC8F?style=for-the-badge)
 ![Data Scale](https://img.shields.io/badge/Customers_Analyzed-44K+-9ACD32?style=for-the-badge)
 
-### 📊 **Advanced ML Platform for South African E-commerce Intelligence**
+### 📊 **Advanced ML Platform for South African E-Commerce Intelligence**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6B8E23&center=true&vCenter=true&width=700&lines=Customer+Segmentation+%7C+Churn+Prediction;Geographic+Analytics+%7C+Business+Intelligence;End-to-End+Data+Science+Pipeline;Real-World+Business+Impact" alt="Typing SVG" />
 
