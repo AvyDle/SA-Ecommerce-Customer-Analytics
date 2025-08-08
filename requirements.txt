@@ -1,0 +1,51 @@
+# SA eCommerce Customer Analytics - Python Dependencies
+# Author: Aviwe Dlepu
+# Project: SA eCommerce Customer Analytics
+# Last Updated: September 2023
+
+# Core Data Science Libraries
+pandas==1.5.3
+numpy==1.24.2
+scipy==1.10.0
+
+# Machine Learning
+scikit-learn==1.2.1
+imbalanced-learn==0.10.1
+
+# Data Visualization
+matplotlib==3.6.3
+seaborn==0.12.2
+plotly==5.13.0
+
+# Big Data & Cloud
+google-cloud-bigquery==3.4.2
+google-cloud-storage==2.7.0
+pyarrow==11.0.0
+
+# Jupyter Environment
+jupyter==1.0.0
+jupyterlab==3.6.1
+ipykernel==6.21.2
+ipywidgets==8.0.4
+
+# Statistical Analysis
+statsmodels==0.13.5
+
+# Utilities
+python-dotenv==0.21.1
+tqdm==4.64.1
+openpyxl==3.1.0
+
+# Data Quality & Validation
+great-expectations==0.16.2
+
+# Tableau Integration (Optional)
+tableauserverclient==0.21
+
+# Development Tools
+black==23.1.0
+flake8==6.0.0
+pytest==7.2.1
+
+# Documentation
+sphinx==6.1.3
